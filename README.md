@@ -42,7 +42,9 @@ The organisation has multiple offices, warehouses, and employees who need a vari
 
 ### 4. Market Expansion Strategy:
 Analysed sales data to identify potential new markets or regions where company can expand.
+
 Visuals to represent the risks and benefits of entering these new markets.
+
 Consider creating "what-if" scenarios to model the impact of expansion.
 
 - Question 9 - Analyse data to identify which city has the highest profit and sales.
