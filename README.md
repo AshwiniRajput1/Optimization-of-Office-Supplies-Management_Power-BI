@@ -14,13 +14,13 @@ The organisation has multiple offices, warehouses, and employees who need a vari
 https://docs.google.com/spreadsheets/d/1ndUB-TyyzF0W5DyYkMA8NrtTBUcPoH52gQAHUnvUf30/edit#gid=1847674264
 https://docs.google.com/spreadsheets/d/1N0Z99m_gVxc1w3KUetkLpvYlkYI9UNV5WKVniqvqh7U/edit?usp=sharing
 
-1. Product Details:
-Question 1 -  How are sales trends from the beginning to end of the year ?
-*Decreasing*
-Question 2 - What are the top-performing products in the Sub category on the biases of profit ?
-*Bookcases*
-Question 3 - Is there a specific region wise product category where we're seeing lowest sales?
-*South - Profit by region*
+- 1. Product Details:
+- Question 1 -  How are sales trends from the beginning to end of the year ?
+- *Decreasing*
+- Question 2 - What are the top-performing products in the Sub category on the biases of profit ?
+- *Bookcases*
+- Question 3 - Is there a specific region wise product category where we're seeing lowest sales?
+- *South - Profit by region*
 
 2. Customer Segmentation:
 
